@@ -1,6 +1,7 @@
 ![Logo](https://betasign.co.uk/img/betasign_brand.svg)
 
 # Betasign Group Limited
+![](https://komarev.com/ghpvc/?username=Betasign-Group-Limited) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40BetasignGroup)](https://twitter.com/BetasignGroup)
 
 ## Table of Contents
 
@@ -29,4 +30,8 @@ Best regards, <br>
 Olli Patrick Wesselingh
 
 ## Links
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
+- [Betasign.co.uk](https://betasign.co.uk)
+- [Discord Server](https://discord.gg/42CaQSVCzG)
+
+## Products
+As of right now we don't have any products that we have released. However, this is changing and we are in the process of making our plans reality.
