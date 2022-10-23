@@ -6,20 +6,23 @@
 ## Table of Contents
 - [Betasign Group Limited](#betasign-group-limited)
   * [About Us](#about-us)
+    + [Our Mission](#our-mission)
+    + [Skills](#skills)
+    + [Our Story](#our-story)
   * [Links](#links)
   * [Products](#products)
 
 ## About Us
 
-**Our Mission**
+### Our Mission
 
 As a company, our mission is to provide affordable, and lightweight software solutions to companies around the globe. This is because during our time in the software industry we have noticed a lack in affordable and modern software.
 
-**Skills**
+### Skills
 
 We are a team of very skilled developers, meaning we have experience with HTML, CSS, JavaScript, and many more languages. We prefer working in JavaScript for our back-end work as it has hundreds of frameworks that we are able to work with to make the best possible and most secure back-ends.
 
-**Our Story**
+### Our Story
 
 We don't really want to bore you with all the nitty gritty details. However, we will give you a quick summary of our story and our goals.
 
