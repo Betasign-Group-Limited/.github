@@ -2,7 +2,6 @@
 
 # Betasign Group Limited
 ![](https://komarev.com/ghpvc/?username=Betasign-Group-Limited) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40BetasignGroup)](https://twitter.com/BetasignGroup)
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/42CaQSVCzG)
 
 ![](https://github-readme-twitter.gazf.vercel.app/api?id=BetasignGroup&layout=wide)
@@ -43,6 +42,7 @@ Olli Patrick Wesselingh
 ## Links
 - [Betasign.co.uk](https://betasign.co.uk)
 - [Discord Server](https://discord.gg/42CaQSVCzG)
+- [Twitter](https://twitter.com/BetasignGroup)
 
 ## Products
 As of right now we don't have any products that we have released. However, this is changing and we are in the process of making our plans reality.
