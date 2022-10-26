@@ -3,6 +3,8 @@
 # Betasign Group Limited
 ![](https://komarev.com/ghpvc/?username=Betasign-Group-Limited) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40BetasignGroup)](https://twitter.com/BetasignGroup)
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/42CaQSVCzG)
+
 ![](https://github-readme-twitter.gazf.vercel.app/api?id=BetasignGroup&layout=wide)
 
 ## Table of Contents
